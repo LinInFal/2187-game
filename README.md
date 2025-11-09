@@ -6,6 +6,10 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+[![Играть сейчас](https://img.shields.io/badge/Играть_сейчас-FF6B35?style=for-the-badge&logo=game&logoColor=white)](https://github.com/LinInFal/2187-game/releases/latest/download/2187.py)
+
+
+
 ## 🎮 Описание игры
 
 2187 предлагает уникальный игровой опыт:
