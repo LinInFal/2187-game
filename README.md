@@ -6,8 +6,9 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![Играть сейчас](https://img.shields.io/badge/Играть_сейчас-FF6B35?style=for-the-badge&logo=game&logoColor=white)](https://github.com/LinInFal/2187-game/releases/latest/download/2187.py)
+[![Скачать](https://img.shields.io/badge/Скачать_игру-FF6B35?style=for-the-badge&logo=game&logoColor=white)](https://github.com/LinInFal/2187-game/releases/latest/download/2187.py)
 
+🗂️[Все версии игры](https://github.com/LinInFal/2187-game/releases) | 🐛 [Сообщить о проблеме](https://github.com/LinInFal/2187-game/issues)
 
 
 ## 🎮 Описание игры
